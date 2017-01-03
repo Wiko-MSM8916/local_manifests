@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <manifest>
-  
-      <!-- Device Tree -->
-      <project path="device/wiko/l5510" name="Wiko-MSM8916/android_device_wiko_l5510" remote="github" revision="cm-12.1" />    
-      <project path="device/cyanogen/msm8916-common" name="Wiko-MSM8916/android_device_cyanogen_msm8916-common" remote="github" revision="cm-12.1" />      
-      <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
-      
-      <!-- vendor -->
-      <project path="vendor/wiko/l5510" name="Wiko-MSM8916/android_kernel_wiko_msm8916" remote="github" revision="cm-12.1" />
-      
-      <!-- kernel -->
-      <project path="kernel/wiko/msm8916" name="Wiko-MSM8916/android_kernel_wiko_msm8916" remote="github" revision="cm-12.1" />
-
+<manifest>
+<project path="kernel/wiko/msm8916" name="Wiko-MSM8916/android_kernel_wiko_msm8916" remote="github" revision="cm-12.1" />
+<project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common" remote="github" revision="cm-12.1" />
+<project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-12.1" />
+<project path="vendor/wiko/l5510" name="Wiko-MSM8916/android_vendor_wiko_l5510" remote="github" revision="cm-12.1" />
+<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
+<project path="device/wiko/l5510" name="Wiko-MSM8916/android_device_wiko_l5510" remote="github" revision="cm-12.1" />
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
 </manifest>
