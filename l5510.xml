@@ -3,7 +3,6 @@
   <project name="Wiko-MSM8916/android_device_wiko_l5510" path="device/wiko/l5510" remote="github" revision="slim-6.0" />
   <project name="Wiko-MSM8916/android_kernel_wiko_msm8916" path="kernel/wiko/msm8916" remote="github" revision="cm-13.0" />
   <project name="Wiko-MSM8916/android_vendor_wiko" path="vendor/wiko" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="Wiko-MSM8916/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-13.0" />
 </manifest>
 
