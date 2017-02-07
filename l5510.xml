@@ -4,7 +4,6 @@
   <project name="Wiko-MSM8916/android_kernel_wiko_msm8916" path="kernel/wiko/msm8916" remote="github" revision="cm-12.1" />
   <project name="Wiko-MSM8916/android_vendor_wiko" path="vendor/wiko" remote="github" revision="cm-12.1" />
   <project name="Wiko-MSM8916/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-12.1" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="kumajaya/android_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="github" revision="cm-12.1" />
 </manifest>
 
